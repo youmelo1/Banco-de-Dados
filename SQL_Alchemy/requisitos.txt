@@ -1,0 +1,8 @@
+instalar sqlalchemy = pip install SQLAlchemy
+
+para ver a basse de dados no vscode, instalar a extensão sqlite (https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+
+
+
+para criar o banco de dados (.db), rodar o arquivo gestao_projeto (banco de dados já está criado, para criar um outro, deletar o .db ou mudar o nome)
+para criar o banco de dados no Postgres, seguir o formato de url dentro do código
